@@ -1,4 +1,4 @@
 # dummy
 
-Dummy repository
+Dummy repository.
 
